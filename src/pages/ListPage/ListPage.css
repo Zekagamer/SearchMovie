@@ -1,0 +1,38 @@
+.list-page {
+    padding: 42px calc(50% - 300px);
+}
+
+.list-page__title {
+    font-size: 34px;
+    margin-bottom: 26px;
+}
+
+.list-page__movie {
+    font-size: 18px;
+    margin-bottom: 30px;
+    display: flex;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.list-page__poster {
+    height: 150px;
+    margin-right: 21px;
+}
+
+.list-page__name {
+    line-height: 30px;
+}
+
+.list-page__text {
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 17px;
+}
+
+.list-page__details {
+    font-size: 12px;
+    color: grey;
+    margin-top: 5px;
+}

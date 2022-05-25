@@ -1,0 +1,9 @@
+.movies__item {
+    margin-bottom: 21px;
+}
+
+.movies__error {
+    color: red;
+    font-style: italic;
+    font-size: 14px;
+}
